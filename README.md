@@ -3,6 +3,16 @@
 A powerful forensic commandline tool for analyzing and extracting information from
 Microsoft Prefetch files.
 
+It fully supports the following Prefetch version:
+
+  * Windows XP/2003
+  * Windows Vista/7
+  * Windows 8/8.1
+
+If partially supports the following Prefetch version:
+
+  * Windows 10
+
 ## Description
 
 `prefetchkit` is a commandline tool which parses and reads Microsoft Prefetch
@@ -78,7 +88,8 @@ MSPAINT.EXE                 2011-03-22 21:44:39                   2
 ```
 
 On a directory, you can use the `--sort=<VALUE>` option for sorting by:
-	*	`EXEC` - execution counter
+
+  *	`EXEC` - execution counter
 	*	`TIME` - last execution time
 	*	`NAME` - name
 
