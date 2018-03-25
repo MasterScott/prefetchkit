@@ -1,6 +1,6 @@
 [package]
 name = "prefetchkit"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Thomas BAILLEUX <thomas@bailleux.me>"]
 license = "WTFPL"
 description = "A powerful forenisc commandline tool for analysing Microsoft Prefetch Files"
