@@ -1,5 +1,10 @@
 # prefetchkit
 
+[![Crates.io](https://img.shields.io/crates/v/prefetchkit.svg)](https://crates.io/crates/prefetchkit)
+[![Crates.io](https://img.shields.io/crates/d/prefetchkit.svg)](https://crates.io/crates/prefetchkit)
+[![license](http://img.shields.io/badge/license-WTFPL-blue.svg)](https://github.com/zadlg/prefetchkit/blob/master/LICENSE)
+
+
 A powerful forensic commandline tool for analyzing and extracting information from
 Microsoft Prefetch files.
 
