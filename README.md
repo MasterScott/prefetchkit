@@ -89,9 +89,9 @@ MSPAINT.EXE                 2011-03-22 21:44:39                   2
 
 On a directory, you can use the `--sort=<VALUE>` option for sorting by:
 
-  *	`EXEC` - execution counter
-	*	`TIME` - last execution time
-	*	`NAME` - name
+  * `EXEC` - execution counter
+  * `TIME` - last execution time
+  * `NAME` - name
 
 Additionally, there is `-r` for reversing the sort.
 
