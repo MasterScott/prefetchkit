@@ -1,9 +1,9 @@
 [package]
 name = "prefetchkit"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Thomas BAILLEUX <thomas@bailleux.me>"]
 license = "WTFPL"
-description = "A powerful forenisc commandline tool for analysing Microsoft Prefetch Files"
+description = "A powerful forensic commandline tool for analysing Microsoft Prefetch Files"
 keywords = ["forensic", "prefetch", "command-line"]
 homepage = "https://github.com/zadlg/prefetchkit"
 repository = "https://github.com/zadlg/prefetchkit.git"
